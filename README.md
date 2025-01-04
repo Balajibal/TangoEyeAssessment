@@ -73,7 +73,7 @@ This project focuses on:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Balajibal/TangoEyeAssessment
-   cd image-clustering-retrieval
+   
    ```
 2. Download the dataset using the link provided in the [https://drive.google.com/drive/folders/1lICo1MXPo5AmkQv__FUVZDd_rTfujk3G?usp=drive_link](#dataset) section.
 3. Ensure your environment has sufficient GPU memory for processing large datasets.
